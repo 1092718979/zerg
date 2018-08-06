@@ -1,0 +1,12 @@
+
+banner      横幅轮播图
+
+category    分类
+
+order       订单表
+
+product     商品产品
+
+property    商品属性
+
+theme       专题

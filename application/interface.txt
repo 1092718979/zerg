@@ -1,0 +1,7 @@
+http://hh.com/zerg/public/api/v1/banner/?
+
+
+http://hh.com/zerg/public/api/v1/theme?ids=？,？,？
+
+
+http://hh.com/zerg/public/api/v1/theme/1
